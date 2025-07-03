@@ -66,6 +66,7 @@ public class BankAtm {
             case 3: 
                    c.displaybal();
                    break;
+                    break;
             case 4: 
                   System.out.println("Removing card.........");
                   System.out.println(" Transition cacelled sucessfully");
