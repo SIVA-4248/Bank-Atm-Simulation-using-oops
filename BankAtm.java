@@ -45,7 +45,7 @@ abstract class holder{
 
 public class BankAtm {
     public static void main(String []args){
-        CurrentAcc c=new CurrentAcc("siva",15000);
+        CurrentAcc c=new CurrentAcc("your name ",your balence);
         Scanner sc=new  Scanner(System.in);
         System.out.println(" WELCOME TO THE BANK ATM  "+ c.name);
         System.out.println(" please insert your card into ATM !!!!");
